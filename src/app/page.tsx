@@ -26,7 +26,7 @@ export default function Home() {
             <a href="#how" className="text-white/60 hover:text-white transition">如何使用</a>
 
             <a 
-              href="https://apps.apple.com/cn/app/%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
+              href="https://apps.apple.com/hk/app/vocab5000-%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-orange-500 to-red-600 text-white px-7 py-3 rounded-full font-semibold hover:shadow-lg hover:shadow-orange-500/30 hover:scale-105 transition-all"
@@ -55,7 +55,7 @@ export default function Home() {
             <a href="#how" className="block text-white/60 hover:text-white transition py-2">如何使用</a>
 
             <a 
-              href="https://apps.apple.com/cn/app/%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
+              href="https://apps.apple.com/hk/app/vocab5000-%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
               target="_blank"
               rel="noopener noreferrer"
               className="block bg-gradient-to-r from-orange-500 to-red-600 text-white px-7 py-3 rounded-full font-semibold text-center"
@@ -85,7 +85,7 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row gap-5 justify-center">
             <a 
-              href="https://apps.apple.com/cn/app/%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
+              href="https://apps.apple.com/hk/app/vocab5000-%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-white text-slate-900 px-10 py-5 rounded-2xl font-bold text-lg hover:bg-gray-100 transition flex items-center justify-center gap-3 shadow-2xl"
@@ -217,7 +217,7 @@ export default function Home() {
           <h2 className="text-5xl md:text-6xl font-black mb-6">每天 5 分鐘<br/>一個月掌握 150+ 新單字</h2>
           <p className="text-xl text-white/40 mb-12">立即下載，開始你的英語詞彙之旅</p>
           <a 
-            href="https://apps.apple.com/cn/app/%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
+            href="https://apps.apple.com/hk/app/vocab5000-%E5%96%AE%E5%AD%97%E5%A4%A7%E5%B8%AB5000/id6764540927" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-white text-slate-900 px-12 py-5 rounded-2xl font-bold text-xl hover:bg-gray-100 transition shadow-2xl"
